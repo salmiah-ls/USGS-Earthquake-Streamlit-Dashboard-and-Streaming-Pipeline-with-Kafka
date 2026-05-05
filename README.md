@@ -1,3 +1,6 @@
-### Streaming USGS Earthquake Data with Kafka
+### USGS Earthquake Dashboard built with Streamlit/Python
 
-Link to USGS Earthquake API: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson
+Link to dashboard: https://salmiahls-usgs-earthquake-dashboard.streamlit.app/
+
+
+### USGS Earthquake Streaming Pipeline with Kafka (built with Docker)
